@@ -1,5 +1,4 @@
-# cb-pages-demo
-A demo of GitHub Pages
+
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
