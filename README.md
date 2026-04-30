@@ -43,3 +43,5 @@ Allen, Ida Bailey. *Woman's World Calendar Cook Book*. Chicago: Woman's World Ma
 [https://catalog.hathitrust.org/Record/100770279](https://catalog.hathitrust.org/Record/100770279)
 ## Original Coobook Cover
 ![Oringal Cookbook Cover](/images/calendar_cookbook_cover.jpg)
+
+Recipe from [Woman's World calendar cook book](https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3805nx1f&seq=24)
